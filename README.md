@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h3>
 <p align="left">
-<a href="https://linkedin.com/in/haritha sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haritha sandaruwan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/haritha sandaruwan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="haritha sandaruwan" height="30" width="40" /></a>
 <a href="https://instagram.com/u.d_haritha_sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u.d_haritha_sandaruwan" height="30" width="40" /></a>
 </p>
 
