@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haritha Sandaruwan</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>, I'm Haritha Sandaruwan</h1>
 <h3 align="center">A passionate Software developer from Sri lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harithasandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="harithasandaruwan" /> </p>
@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/haritha sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haritha sandaruwan" height="30" width="40" /></a>
 <a href="https://instagram.com/u.d_haritha_sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u.d_haritha_sandaruwan" height="30" width="40" /></a>
