@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harithasandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="harithasandaruwan" /> </p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 - 🌱 I’m currently learning **React Native, Python, Android, IOS**
 
 - 💬 Ask me about **Web [MERN, JAVA, PHP]**
@@ -12,6 +10,12 @@
 - 📫 How to reach me **haritha15sandaruwan@gmail.com**
 
 - ⚡ Fun fact **I can debug code faster than I can make a cup of coffee!**
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
