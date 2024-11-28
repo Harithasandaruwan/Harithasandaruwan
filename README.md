@@ -18,7 +18,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 ![](https://github-readme-stats.vercel.app/api?username=Harithasandaruwan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harithasandaruwan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Harithasandaruwan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h3>
 <p align="left">
